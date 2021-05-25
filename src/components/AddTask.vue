@@ -5,7 +5,7 @@
       <input type="text" v-model="text" name="text" placeholder="Add Task" />
     </div>
     <div class="form-control">
-      <label>Day & Time</label>
+      <label>Day && Time</label>
       <input
         type="text"
         v-model="day"
